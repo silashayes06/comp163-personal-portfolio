@@ -55,7 +55,7 @@ print("MATH 110 - 4   credits - Dr. Johnson - Marteena 216")
 print("COMP 163 - 3 credits - Prof. Rhodes - Gibbs 337")
 print("GEEN 111 - 1 credits - Dr. Parrish - McNair 240")
 print("HIST 216 - 3 credits - Dr. Ndege - ONLINE")
-print("SPCH 250 - 3 credits - Dr. Silverthorne - ONLINE)
+print("SPCH 250 - 3 credits - Dr. Silverthorne - ONLINE")
 
 print("=== PERSONAL DEVELOPMENT ===")
 print(f"Current Skills: {current_skills}")
